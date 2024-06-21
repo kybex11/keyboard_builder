@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "electron": "^31.0.2",
+    "tsx": "^4.15.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
