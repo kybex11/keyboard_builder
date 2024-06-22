@@ -16,3 +16,5 @@ app.on('activate', () => {
         win.openURL('builder://localhost:3000');
     }
 });
+
+//todo: Fix BrowserWindow bug
